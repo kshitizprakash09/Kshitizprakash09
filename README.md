@@ -5,7 +5,7 @@
         src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922"
         width="30px"
       />
-      Hi, I'm Shreyansh
+      Hi, I'm Kshitiz
       <img
         src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922"
         width="30px"
