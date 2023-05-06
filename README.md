@@ -1,21 +1,65 @@
-### Hi there 👋, my name is Kshitiz
-#### WEB DEVELOPER
-![WEB DEVELOPER](https://arturssmirnovs.github.io/github-profile-readme-generator/https://images.app.goo.gl/KJQLTMC8NEb9i7ED8/banner.png)
+<h1>
+  <p align="center">
+    <i
+      ><img
+        src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922"
+        width="30px"
+      />
+      Hi, I'm Shreyansh
+      <img
+        src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922"
+        width="30px"
+      />
+    </i>
+  </p>
+</h1>
+<p align ="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=2ABD90&lines=Open+source+enthusiast+%E2%9D%A4%EF%B8%8F;Web+Developer+;UI-UX+Designer+%F0%9F%91%BB">
+</p>
+<img align="right" alt="GIF" src="assets/anime-1628890564788-7832.jpg"  width="500" height="auto" />
 
-Hi there! My name is Kshitiz Prakash, and I'm currently pursuing a Bachelor's degree in Computer Science and Engineering. I have always been passionate about technology and its ability to change the world we live in.
+**<img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="20px"> About Me:**
 
-When I'm not coding, I enjoy playing chess #Chess.com. I also like to participate in coding competitions, where I get to test my skills and learn from other talented developers.
+- Doing my Bachelor in "Computer Scinece and Engineering";
+- Creating new UI renders every week at [UI/UX](https://github.com/shr3yy/UI-UX); 
+- Trying to <i>merge</i> my life with <img
+        src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"
+        width="20px"
+      />;
+- On my way for *DevOps*;
+- Work? Talk? Suggestions? : shreyanshmalvya@gmail.com ;
 
-Feel free to check out my GitHub repositories to see some of my projects and contributions.
+**👨🏻‍💻 Languages and Tools:**  
 
-Work? Talk? Suggestions? : 
-kshitizprakash09@gmail.com ;
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+ 
+ <p align = "right"> Wanna Connect? <br>
+  <a href="https://dribbble.com/shr3yy"><img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/dribbble.png"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/shr3yy/"><img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/linkedin.png"></a>&nbsp;
+  <a href="https://www.instagram.com/shreyanshmalvya/"><img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/instagram.png"></a>&nbsp;
+  <a href="https://open.spotify.com/user/h1mc01zkxb1qy76ziqozb6h81"><img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/spotify.png"></a>&nbsp;
+</p>
+
+---
+## Artifacts
+<div align=center>
+
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyanshmalvya&repo=UI-UX&theme=tokyonight)](https://github.com/shreyanshmalvya/UI-UX)
+  &nbsp;&nbsp;
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyanshmalvya&repo=caprice&theme=tokyonight)](https://github.com/shreyanshmalvya/Caprice) -->
+![My stats](https://github-readme-stats.vercel.app/api?username=shreyanshmalvya&show_icons=true&theme=tokyonight)
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+</div>
 
-- 🔭 I’m currently working on this page. 
+<div align="center">
 
+### Show some ❤️ by starring some of the repositories!
+</div>
 
-
-
+---
