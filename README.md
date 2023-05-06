@@ -16,7 +16,7 @@
 <p align ="left">
   <img src="https://readme-typing-svg.herokuapp.com?color=2ABD90&lines=Open+source+enthusiast+%E2%9D%A4%EF%B8%8F;Web+Developer+;UI-UX+Designer+%F0%9F%91%BB">
 </p>
-<img align="right" alt="GIF" src="Screenshot_20230302_125130.jpg"  width="500" height="auto" />
+<img align="right" alt="GIF" src="[Screenshot_20230302_125130.jpg](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)"  width="500" height="auto" />
 
 **<img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="20px"> About Me:**
 
