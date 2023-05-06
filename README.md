@@ -27,7 +27,7 @@
         width="20px"
       />;
 - On my way for *DevOps*;
-- Work? Talk? Suggestions? : shreyanshmalvya@gmail.com ;
+- Work? Talk? Suggestions? : Kshitizprakash09@gmail.com ;
 
 **👨🏻‍💻 Languages and Tools:**  
 
