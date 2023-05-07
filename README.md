@@ -29,7 +29,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kshitizprakash9703?theme=nord&font=Baloo%20Tammudu%202&ext=activity)
 
 <p align = "right"> Wanna Connect? <br>
- <a href=”https://twitter.com/KshitizPrakash5/"><img align=”left” src=”https://raw.githubusercontent.com/Kshitizprakash09/Kshitizprakash09/main/images/twitter" alt=”Kshitiz | Twitter” width=”21px”/></a>
+ <a href=https://www.flaticon.com/free-icon/github_2111432></a>
   <a href="https://www.linkedin.com/in/shr3yy/"><img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/linkedin.png"></a>&nbsp;
   <a href="https://www.instagram.com/shreyanshmalvya/"><img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/instagram.png"></a>&nbsp;
   <a href="https://open.spotify.com/user/h1mc01zkxb1qy76ziqozb6h81"><img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/spotify.png"></a>&nbsp;
