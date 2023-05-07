@@ -2,12 +2,12 @@
   <p align="center">
     <i
       ><img
-        src="[https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922](https://slackmojis.com/emojis/7248-baby-yoda-soup/download)"
+        src="https://slackmojis.com/emojis/7248-baby-yoda-soup/download"
         width="30px"
       />
       Hi, I'm Kshitiz
       <img
-        src="[https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922](https://slackmojis.com/emojis/7248-baby-yoda-soup/download)"
+        src="https://slackmojis.com/emojis/7248-baby-yoda-soup/download"
         width="30px"
       />
     </i>
