@@ -66,7 +66,7 @@ I'm an **Undergrad Student🎓 [@VIT BHOPAL](https://vitbhopal.ac.in/)** pursuin
 
 
 ### 🚀 Quick Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kshitizprakash9703&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kshitizprakash09&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <!-- <img width="340" height="155" align="center" 
      src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Defcon27&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" /> -->
 </p>
