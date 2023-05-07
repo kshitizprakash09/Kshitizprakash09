@@ -13,6 +13,9 @@
     </i>
   </p>
 </h1>
+<p align ="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=2ABD90&lines=Open+source+enthusiast+%E2%9D%A4%EF%B8%8F;Web+Developer+;UI-UX+Designer+%F0%9F%91%BB">
+</p>
 
  ###📬 Take a look at my repository and get in touch!
  
