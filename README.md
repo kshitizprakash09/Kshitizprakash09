@@ -28,6 +28,13 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kshitizprakash9703?theme=nord&font=Baloo%20Tammudu%202&ext=activity)
 
+<p align = "right"> Wanna Connect? <br>
+  <a href="https://twitter.com/KshitizPrakash5"><img height="30" src="https://twitter.com/KshitizPrakash5/KshitizPrakash5/blob/main/assets/twitter.png"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/shr3yy/"><img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/linkedin.png"></a>&nbsp;
+  <a href="https://www.instagram.com/shreyanshmalvya/"><img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/instagram.png"></a>&nbsp;
+  <a href="https://open.spotify.com/user/h1mc01zkxb1qy76ziqozb6h81"><img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/spotify.png"></a>&nbsp;
+</p>
+
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm an **Undergrad Student🎓 [@VIT BHOPAL](https://vitbhopal.ac.in/)** pursuing CSE. I'm a **Tech Enthusiast** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
