@@ -1,4 +1,4 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">Howdy!, I am <a href="https://github.com/Kshitizprakash09">Kshitiz</a> <img height="30px" src="[https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430](https://slackmojis.com/emojis/7248-baby-yoda-soup/download)"></h1>
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">Howdy!, I am <a href="https://github.com/Kshitizprakash09">Kshitiz</a> <img height="30px" src="https://slackmojis.com/emojis/7248-baby-yoda-soup/download"></h1>
 </h1>
 
 ### 📬 Find me at
