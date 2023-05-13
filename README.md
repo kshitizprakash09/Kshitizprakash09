@@ -32,7 +32,7 @@
  <a href=https://www.flaticon.com/free-icon/github_2111432></a>
 
 <a href="https://www.linkedin.com/in/kshitizprakash09/">
-  <img src="path/to/linkedin-icon.png" alt="LinkedIn" width="30" height="30">
+  <img src="assests/linkedin (1).png" alt="LinkedIn" width="30" height="30">
 </a>
 [![Spotify](https://img.shields.io/badge/Spotify-Kshitiz09-green?logo=spotify&logoColor=white&link=https://open.spotify.com/user/31il2gan25khssbhmxraac3cocpu)](https://open.spotify.com/user/31il2gan25khssbhmxraac3cocpu)
 <a href="https://www.instagram.com/kshitiz_prakash09/">
