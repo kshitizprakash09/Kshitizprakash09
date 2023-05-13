@@ -33,7 +33,7 @@
 
 [![LinkedIn](instagram.png/to/linkedin-icon.png)](https://www.linkedin.com/in/your-linkedin-profile-url/)
 [![Spotify](https://img.shields.io/badge/Spotify-Kshitiz09-green?logo=spotify&logoColor=white&link=https://open.spotify.com/user/31il2gan25khssbhmxraac3cocpu)](https://open.spotify.com/user/31il2gan25khssbhmxraac3cocpu)
-<a href="https://www.instagram.com/https://www.instagram.com/kshitiz_prakash09/">
+<a href="https://www.instagram.com/kshitiz_prakash09/">
   <img src="assests/instagram.png" alt="Instagram" width="30" height="30">
 </a>&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-YourHandle-blue?logo=twitter&logoColor=white&link=https://twitter.com/your-twitter-handle)](https://twitter.com/your-twitter-handle)
