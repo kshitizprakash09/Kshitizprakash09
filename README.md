@@ -53,23 +53,23 @@ I'm an **Undergrad Student🎓 [@VIT BHOPAL](https://vitbhopal.ac.in/)** pursuin
 
 **<img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="20px"> About Me:**
 
-- 🔭 I’m currently working on ML Project
-- 🌱 I’m currently learning Java ☕
+- Doing my Bachelor in "Computer Scinece and Engineering";
+-  I’m currently learning Java ☕
 
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">  I enjoy working on
-  - 📊 Machine Learning & Data Science
-  - 🖼 Computer Vision
-  - 🛠 DIY Raspberry Pi Projects
-- 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
-- 💬 Ask me about Python, ML, CV, Raspi
-- 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
+  - Machine Learning & Data Science
+  - Computer Vision
+  - DIY Raspberry Pi Projects
+- I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
+- Ask me about Python, ML, CV, Raspi
+
 
  
 
 
 
-### ⚙️ Some Tool and Tech I use
+### 👨🏻‍💻 Languages and Tools:
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
