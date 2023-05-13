@@ -51,7 +51,7 @@ I'm an **Undergrad Student🎓 [@VIT BHOPAL](https://vitbhopal.ac.in/)** pursuin
 
 
 
-## ⚡️ A Few Quick Facts
+**<img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="20px"> About Me:**
 
 - 🔭 I’m currently working on ML Project
 - 🌱 I’m currently learning Java ☕
