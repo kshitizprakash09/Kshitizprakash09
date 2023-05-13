@@ -33,7 +33,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kshitizprakash09-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kshitizprakash09/)](https://www.linkedin.com/in/kshitizprakash09/)
 [![Spotify](https://img.shields.io/badge/Spotify-Kshitiz09-green?logo=spotify&logoColor=white&link=https://open.spotify.com/user/31il2gan25khssbhmxraac3cocpu)](https://open.spotify.com/user/31il2gan25khssbhmxraac3cocpu)
-[![Instagram](https://img.shields.io/badge/Instagram-kshitiz_prakash09-red?logo=instagram&logoColor=white&link=https://www.instagram.com/kshitiz_prakash09/)](https://www.instagram.com/kshitiz_prakash09/)
+[![Instagram](https://img.shields.io/badge/Instagram-kshitiz_prakash09-pink?logo=instagram&logoColor=white&link=https://www.instagram.com/kshitiz_prakash09/)](https://www.instagram.com/kshitiz_prakash09/)
 [![Twitter](https://img.shields.io/badge/Twitter-YourHandle-blue?logo=twitter&logoColor=white&link=https://twitter.com/your-twitter-handle)](https://twitter.com/your-twitter-handle)
 
 </p>
