@@ -30,7 +30,7 @@
 
 <p align = "right"> Wanna Connect? <br>
  <a href=https://www.flaticon.com/free-icon/github_2111432></a>
-  <a href="https://www.linkedin.com/in/shr3yy/"><img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/linkedin.png"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/kshitizprakash09/"><img height="30" src="https://github.com/kshitizprakash09/kshitizprakash09/blob/main/assets/linkedin.png"></a>&nbsp;
   <a href="https://www.instagram.com/shreyanshmalvya/"><img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/instagram.png"></a>&nbsp;
   <a href="https://open.spotify.com/user/h1mc01zkxb1qy76ziqozb6h81"><img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/spotify.png"></a>&nbsp;
 </p>
