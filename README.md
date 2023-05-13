@@ -40,8 +40,9 @@
 <a href="https://www.instagram.com/kshitiz_prakash09/">
   <img src="assests/instagram.png" alt="Instagram" width="30" height="30">
 </a>&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-YourHandle-blue?logo=twitter&logoColor=white&link=https://twitter.com/your-twitter-handle)](https://twitter.com/your-twitter-handle)
-
+<a href="https://twitter.com/KshitizPrakash5">
+  <img src="assests/twitter.png" alt="Twitter" width="30" height="30">
+</a>
 </p>
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
