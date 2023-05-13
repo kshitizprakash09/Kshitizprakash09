@@ -34,7 +34,9 @@
 <a href="https://www.linkedin.com/in/kshitizprakash09/">
   <img src="assests/linkedin (1).png" alt="LinkedIn" width="30" height="30">
 </a>
-[![Spotify](https://img.shields.io/badge/Spotify-Kshitiz09-green?logo=spotify&logoColor=white&link=https://open.spotify.com/user/31il2gan25khssbhmxraac3cocpu)](https://open.spotify.com/user/31il2gan25khssbhmxraac3cocpu)
+<a href="https://open.spotify.com/user/31il2gan25khssbhmxraac3cocpu">
+  <img src="assests/spotify.png" alt="Spotify" width="30" height="30">
+</a>
 <a href="https://www.instagram.com/kshitiz_prakash09/">
   <img src="assests/instagram.png" alt="Instagram" width="30" height="30">
 </a>&nbsp;
