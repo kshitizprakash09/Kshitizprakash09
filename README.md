@@ -45,7 +45,7 @@ I'm an **Undergrad Student🎓 [@VIT BHOPAL](https://vitbhopal.ac.in/)** pursuin
 
 - 🔭 I’m currently working on ML Project
 - 🌱 I’m currently learning Java ☕
-<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">  I enjoy working on
   - 📊 Machine Learning & Data Science
