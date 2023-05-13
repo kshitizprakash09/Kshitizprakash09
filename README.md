@@ -30,9 +30,11 @@
 
 <p align = "right"> Wanna Connect? <br>
  <a href=https://www.flaticon.com/free-icon/github_2111432></a>
-  <a href="https://www.linkedin.com/in/shr3yy/"><img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/linkedin.png"></a>&nbsp;
-  <a href="https://www.instagram.com/shreyanshmalvya/"><img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/instagram.png"></a>&nbsp;
-  <a href="https://open.spotify.com/user/h1mc01zkxb1qy76ziqozb6h81"><img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/spotify.png"></a>&nbsp;
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kshitizprakash09-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kshitizprakash09/)](https://www.linkedin.com/in/kshitizprakash09/)
+[![Spotify](https://img.shields.io/badge/Spotify-YourName-green?logo=spotify&logoColor=white&link=https://open.spotify.com/user/your-spotify-user-id)](https://open.spotify.com/user/your-spotify-user-id)
+[![Instagram](https://img.shields.io/badge/Instagram-YourName-red?logo=instagram&logoColor=white&link=https://www.instagram.com/your-instagram-profile-url/)](https://www.instagram.com/your-instagram-profile-url/)
+
 </p>
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
