@@ -32,7 +32,7 @@
  <a href=https://www.flaticon.com/free-icon/github_2111432></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kshitizprakash09-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kshitizprakash09/)](https://www.linkedin.com/in/kshitizprakash09/)
-[![Spotify](https://img.shields.io/badge/Spotify-YourName-green?logo=spotify&logoColor=white&link=https://open.spotify.com/user/your-spotify-user-id)](https://open.spotify.com/user/your-spotify-user-id)
+[![Spotify](https://img.shields.io/badge/Spotify-Kshitiz09-green?logo=spotify&logoColor=white&link=https://open.spotify.com/user/31il2gan25khssbhmxraac3cocpu)](https://open.spotify.com/user/31il2gan25khssbhmxraac3cocpu)
 [![Instagram](https://img.shields.io/badge/Instagram-YourName-red?logo=instagram&logoColor=white&link=https://www.instagram.com/your-instagram-profile-url/)](https://www.instagram.com/your-instagram-profile-url/)
 
 </p>
