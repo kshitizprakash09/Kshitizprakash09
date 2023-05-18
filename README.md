@@ -17,7 +17,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=2ABD90&lines=Open+source+enthusiast+%E2%9D%A4%EF%B8%8F;Web+Developer+;UI-UX+Designer+%F0%9F%91%BB">
 </p>
 
- ###📬 Take a look at my repository and get in touch!
+ ##📬 Take a look at my repository and get in touch!
  
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Kshitizprakash09/)](https://github.com/Kshitizprakash09/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kshitizprakash09/)](https://www.linkedin.com/in/kshitizprakash09)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/kshitizprakash09)](https://www.hackerrank.com/kshitizprakash09)
