@@ -147,5 +147,4 @@ language badges:
 -->
 --->
 
-.
-jj
+cd
